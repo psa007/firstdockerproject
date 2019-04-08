@@ -1,7 +1,7 @@
 {
-  "name": "docker_web_app",
+  "name": "bth-lab2",
   "version": "1.0.0",
-  "description": "Node.js on Docker",
+  "description": "Introduction to Cloud computing Lab2",
   "author": "Samuel Adewole <wolewells@gmail.com>",
   "main": "server.js",
   "scripts": {
